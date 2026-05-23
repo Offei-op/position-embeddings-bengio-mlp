@@ -42,7 +42,7 @@ embedding's contribution mostly disappears. The full writeup is [here](#).
 ## Running it yourself
 
 ```bash
-git clone https://github.com/<your-username>/position-embeddings-bengio-mlp
+git clone https://github.com/Offei-op/position-embeddings-bengio-mlp
 cd position-embeddings-bengio-mlp
 pip install -r requirements.txt
 jupyter notebook PosEmb.ipynb
